@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Blog"
+  - title: "blog"
     url: https://dotmargui.github.io/blog/
-  - title: "PT Cuisine"
+  - title: "pt cuisine"
     url: https://dotmargui.github.io/blog/
-  - title: "Books"
+  - title: "books"
     url: https://dotmargui.github.io/blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
