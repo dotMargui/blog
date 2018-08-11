@@ -103,7 +103,7 @@ author:
   name             : "Margarida Pedro"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Law student from Portugal learning code"
-  location         : "Cascais"
+  location         : "Cascais, Portugal"
   email            :  margaridaolpe@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,7 +111,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/margarida.pedro97
   foursquare       :
   github           :
   gitlab           :
