@@ -14,8 +14,7 @@ After I was done checking my packing list for the nth time, mom and Lucky drove 
 
 <figure class="half">
   <a href="https://raw.githubusercontent.com/dotMargui/blog/master/assets/photos/20180721_plane.jpg">
-    <img src="https://raw.githubusercontent.com/dotMargui/blog/master/assets/photos/20180721_plane.jpg" alt="Swedish lake seen from above" class="center"></a>
-   <figcaption>Sweden seen from the sky</figcaption> 
+    <img src="https://raw.githubusercontent.com/dotMargui/blog/master/assets/photos/20180721_plane.jpg" alt="Swedish lake seen from above"></a>
     </figure>
 
 
