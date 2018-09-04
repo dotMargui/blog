@@ -23,7 +23,7 @@ Regarding the flights and the layover, everything went smoothly. I arrived at La
 
 Before heading home to Lidköping,  we stopped to eat gelato and check out (and laugh at) the weird, blue train station in Vara. 
 
-After taking a quick break at home and making paleo and non-paleo egg sandwiches, we went to LARS to join Zira, Makko and Phil. Meeting with friends was good, prog was good, food was good, Makko's cherries were good, and I believe their beer was also pretty good. It may sound crazy, but it ended up being exactly what a needed after a pair of flights. I missed those guys, they're good people and fun to be around. 
+After taking a quick break at home and making paleo and non-paleo egg sandwiches, we went to LARS to join Zira, Makko and Phil. Meeting with friends was good, prog was good, food was good, Makko's cherries were good, and I believe their beer was also pretty good. It may sound crazy, but it ended up being exactly what I needed after a pair of flights. I missed those guys, they're good people and fun to be around. 
 
 It's great to be back home. 
 
