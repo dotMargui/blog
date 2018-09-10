@@ -2,10 +2,10 @@
 main:
   - title: "blog"
     url: https://dotmargui.github.io/blog/
-  - title: "pt cuisine"
-    url: https://dotmargui.github.io/blog/
-  - title: "books"
-    url: https://dotmargui.github.io/blog/
+  - title: "thoughts"
+    url: https://dotmargui.github.io/
+  - title: "lagom"
+    url: https://dotmargui.github.io/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
