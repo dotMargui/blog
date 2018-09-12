@@ -7,6 +7,10 @@ tags:
   - blog
   - life
   - du gamla du fria
+  - travel
+  - music
+  - lars
+  - sverige
 ---
 I woke up around 4:30 in order to be at the airport at least two hours before my flight. My town is only thirty minutes away from Lisbon, but I knew I'd probably take my sweet time getting ready - and I did: the fact that your loved one is in another country doesn't change much about the rituals that precede a date. 
 
