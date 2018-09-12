@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: ""
-    url: https://dotmargui.github.io/blog/
+  - title: "blog"
+    url: https://dotmargui.github.io/
   - title: "thoughts"
     url: https://dotmargui.github.io/
   - title: "lagom"
